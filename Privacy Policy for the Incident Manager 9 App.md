@@ -12,9 +12,23 @@ The application has fields for the input of information relating to the accident
 The following information is obtained by the User of the App:
 
 The number and type of vehicles involved in the accident
+
 The number of persons involved and whether they are male or female, adult or child.
+
 The following information is attempted to be obtained from each casualty:
-Name, Age Where it hurts, Allergies,Medication, Past medical history, Time of ingestion of food or drink, and the casualty's version of events.
+
+Name, 
+
+Age Where it hurts, 
+
+Allergies,Medication, 
+
+Past medical history, 
+
+Time of ingestion of food or drink, 
+
+The casualty's version of events.
+
 None of the above information is mandatory, any of the fields can be left blank.
 The above information is based on the SAMPLE acrostic widely used in accident situations.
 The above information is saved temporarily on the App whilst waiting for the emergency services to arrive.
