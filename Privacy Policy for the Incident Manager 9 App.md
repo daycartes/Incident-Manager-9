@@ -30,43 +30,60 @@ Time of ingestion of food or drink,
 The casualty's version of events.
 
 None of the above information is mandatory, any of the fields can be left blank.
+
 The above information is based on the SAMPLE acrostic widely used in accident situations.
+
 The above information is saved temporarily on the App whilst waiting for the emergency services to arrive.
 
 Removal of information before closing the App:
+
 The information needs to be removed once the emergency services have taken note of the information. This is done in one of two ways:
 1 - On the Final page of the app the 'Exit Application' button is not enabled until the 'Delete files of personal information' button has been pressed and a message 'All personal information has been successfully erased' has been shown.
+
 2 - By uninstalling the App.
 
 
 The Application does not require any user registration. 
+
 The Application does not require the user to provide any personal information about themselves.
 
 All the casualty's details are only stored locally on your mobile device, within the Application private folder, following Android’s security best practices.
 
 Automatically Collected Information:
+
 The Application does not collect any information automatically.
+
 The Application does not share any information automatically with third parties.
 
 Does the Application collect precise real time location information of the device? 
+
 The Application does not collect precise information about the location of your mobile device.
 
 Do third parties see and/or have access to information obtained by the Application? 
+
 No, however there is the facility to email or text the information to emergency services.
 
 What are my opt-out rights? 
+
 You can easily delete the Application by uninstalling the Application from your mobile device. 
+
 You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 Data Retention Policy, Managing Your Information:
+
 This Application does not automatically collect, share nor retain any information. 
+
 All the casualty's details are only stored locally on your mobile device, within the Application private folder, following Android’s security best practices.
+
 The information must be deleted on exit, by one of the two methods explained above.
 
 Children:
 The App is aimed at adults who maybe the first at the scene of a road accident, therefore the Application does not address anyone under the age of 13. 
+
 The user may obtain the above casualty information of children in order to pass it on to emergency services.
+
 The information obtained does not consist of any contact information. 
+
 We do not use the Application to knowingly solicit data from or market to children under the age of 13.
 
 Security:
