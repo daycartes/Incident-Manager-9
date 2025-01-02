@@ -1,5 +1,7 @@
 # Incident-Manager-9
-An app helping you to manage the scene of a road accident
+An app helping you to manage the scene of a road accident.
+
+
 Rationale:
 A few years ago, whilst driving in Cheshire, my wife and I happened upon an accident. It wasn’t a terrible accident but there were two occupants of a vehicle still in their car whose front end had been ripped off. We set about talking to the occupants and realised that with a bit of help they could extricate themselves from the wreckage. We managed to help them to sit away from the scene whilst waiting for the emergency personnel to arrive. We later went to hospital with them and visited them the next day and we remained in contact with them for a few years.
 Previous to this incident we had had no training, so we worked more by instinct than by following a set procedure.
