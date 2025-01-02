@@ -94,7 +94,8 @@ In order to ensure an optimal security, you shall regularly install any Applicat
 
 We also advise you to regularly check for any Android OS update(s) that could be available and to enable automatic updates.
 
-Changes This Privacy Policy may be updated from time to time for any reason. Any updates will be written in line with any requirements laid down by Google/Android.
+Changes: 
+This Privacy Policy may be updated from time to time for any reason. Any updates will be written in line with any requirements laid down by Google/Android.
 
 You are advised to review this Privacy Policy periodically for any changes, as continued use is deemed approval of all changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
