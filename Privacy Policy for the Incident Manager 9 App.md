@@ -39,7 +39,7 @@ Removal of information before closing the App:
 
 The information needs to be removed once the emergency services have taken note of the information. This is done in one of two ways:
 
-1 - On the Final page of the app the 'Exit Application' button is not enabled until the 'Delete files of personal information' button has been pressed and a message 'All personal information has been successfully erased' has been shown.
+1 - On the Final page of the app, the 'Exit Application' button is not enabled until the 'Delete files of personal information' button has been pressed and a message 'All personal information has been successfully erased' has been shown.
 
 2 - By uninstalling the App.
 
